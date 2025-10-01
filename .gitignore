@@ -1,0 +1,6 @@
+# Local envs and secrets
+.env
+.venv/
+__pycache__/
+data/cockpit/*
+!data/cockpit/.gitkeep
